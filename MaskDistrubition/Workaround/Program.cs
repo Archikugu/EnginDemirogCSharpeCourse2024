@@ -18,7 +18,7 @@ else
     Console.WriteLine("Geçersiz doğum yılı girdiniz. Lütfen bir sayı girin.");
     return;
 }
-
+ 
 Console.WriteLine("Lütfen T.C. kimlik numaranızı giriniz:");
 if (long.TryParse(Console.ReadLine(), out long nationalIdentity))
 {

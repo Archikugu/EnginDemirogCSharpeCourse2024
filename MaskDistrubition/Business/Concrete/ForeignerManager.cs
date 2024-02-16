@@ -22,7 +22,7 @@ namespace Business.Concrete
 
         public List<Person> GetList()
         {
-            throw new NotImplementedException();
+            throw new NotImplementedException(); 
         }
     }
 }

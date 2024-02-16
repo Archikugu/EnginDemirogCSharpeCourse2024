@@ -18,7 +18,6 @@ namespace Business.Concrete
 
         public void GiveMask(Person person)
         {
-
             if (_applicantService.CheckPerson(person))
             {
                 Console.WriteLine(person.FirstName + " " + person.LastName + " için maske verildi");

@@ -9,6 +9,6 @@ namespace Business.Abstract
 {
     public interface ISupplierService
     {
-        void GiveMask(Person person);
+        void GiveMask(Person person); 
     }
 }
