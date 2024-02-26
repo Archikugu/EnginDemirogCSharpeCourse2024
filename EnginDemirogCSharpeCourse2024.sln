@@ -21,29 +21,41 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Intro2", "Lesson2\Intro2\In
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSharpeIsABetterProgrammerSetlist", "CSharpeIsABetterProgrammerSetlist", "{7ECAD250-D528-4212-A83C-6710FC316A8B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceTypes", "CSharpeIsABetterProgrammerSetlist\ReferenceTypes\ReferenceTypes.csproj", "{4010D8ED-6218-4B19-B703-0DBC59E9B63E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReferenceTypes", "CSharpeIsABetterProgrammerSetlist\ReferenceTypes\ReferenceTypes.csproj", "{4010D8ED-6218-4B19-B703-0DBC59E9B63E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "CSharpeIsABetterProgrammerSetlist\Constructors\Constructors.csproj", "{90F41B3F-6B50-461C-9061-5D7A09991C1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructors", "CSharpeIsABetterProgrammerSetlist\Constructors\Constructors.csproj", "{90F41B3F-6B50-461C-9061-5D7A09991C1B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "CSharpeIsABetterProgrammerSetlist\Interfaces\Interfaces.csproj", "{5D91A726-BDDD-465A-ACE0-62B5792886F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "CSharpeIsABetterProgrammerSetlist\Interfaces\Interfaces.csproj", "{5D91A726-BDDD-465A-ACE0-62B5792886F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "CSharpeIsABetterProgrammerSetlist\Generics\Generics.csproj", "{D5A76520-177F-4782-8E3D-73A8F124AD44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generics", "CSharpeIsABetterProgrammerSetlist\Generics\Generics.csproj", "{D5A76520-177F-4782-8E3D-73A8F124AD44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadingDemo1", "CSharpeIsABetterProgrammerSetlist\ThreadingDemo1\ThreadingDemo1.csproj", "{3C3164D2-5A3F-43C9-BE21-BCDBAE70D757}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreadingDemo1", "CSharpeIsABetterProgrammerSetlist\ThreadingDemo1\ThreadingDemo1.csproj", "{3C3164D2-5A3F-43C9-BE21-BCDBAE70D757}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqProject", "CSharpeIsABetterProgrammerSetlist\LinqProject\LinqProject.csproj", "{7F90C8E9-96A8-435A-B0BA-5CAAF7C60171}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqProject", "CSharpeIsABetterProgrammerSetlist\LinqProject\LinqProject.csproj", "{7F90C8E9-96A8-435A-B0BA-5CAAF7C60171}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson3", "Lesson3", "{45A07FAC-2BA3-4326-8041-AE7D795E8208}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "Lesson3\WebAPI\WebAPI.csproj", "{385F3D82-8ECA-4C79-AD23-50BB545B5E06}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPI", "Lesson3\WebAPI\WebAPI.csproj", "{385F3D82-8ECA-4C79-AD23-50BB545B5E06}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Lesson3\Business\Business.csproj", "{E957E68E-9D41-4CB7-ACA3-D6A9224B4880}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Business", "Lesson3\Business\Business.csproj", "{E957E68E-9D41-4CB7-ACA3-D6A9224B4880}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "Lesson3\DataAccess\DataAccess.csproj", "{9A11CA1E-686A-4580-BF51-A4E4D3AF24D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "Lesson3\DataAccess\DataAccess.csproj", "{9A11CA1E-686A-4580-BF51-A4E4D3AF24D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Lesson3\Entities\Entities.csproj", "{D095DD04-B0E3-465B-959F-0F09D27BCF29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Lesson3\Entities\Entities.csproj", "{D095DD04-B0E3-465B-959F-0F09D27BCF29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Lesson3\Core\Core.csproj", "{3239E7D8-E675-4CA1-99AE-CE0EB3B7D835}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core", "Lesson3\Core\Core.csproj", "{3239E7D8-E675-4CA1-99AE-CE0EB3B7D835}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "KodlamaIODemo", "KodlamaIODemo", "{88ABC093-67D4-48E7-9841-512CC1D96CC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "KodlamaIODemo\Entities\Entities.csproj", "{AB7823C2-F6ED-4EB8-92C5-7B9C195A8CAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "KodlamaIODemo\DataAccess\DataAccess.csproj", "{39E9F730-5A32-4F3C-BB1A-3A37B7C67537}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "KodlamaIODemo\Business\Business.csproj", "{5310C695-968B-4FAB-B71A-EDE4E5CB0A61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "KodlamaIODemo\WebAPI\WebAPI.csproj", "{B00EB7A5-7517-439F-8EE3-32ED6522685B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTO", "KodlamaIODemo\DTO\DTO.csproj", "{66EA0B9B-59AF-441F-A185-65DC38897516}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -115,6 +127,26 @@ Global
 		{3239E7D8-E675-4CA1-99AE-CE0EB3B7D835}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3239E7D8-E675-4CA1-99AE-CE0EB3B7D835}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3239E7D8-E675-4CA1-99AE-CE0EB3B7D835}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB7823C2-F6ED-4EB8-92C5-7B9C195A8CAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB7823C2-F6ED-4EB8-92C5-7B9C195A8CAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB7823C2-F6ED-4EB8-92C5-7B9C195A8CAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB7823C2-F6ED-4EB8-92C5-7B9C195A8CAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39E9F730-5A32-4F3C-BB1A-3A37B7C67537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39E9F730-5A32-4F3C-BB1A-3A37B7C67537}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39E9F730-5A32-4F3C-BB1A-3A37B7C67537}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39E9F730-5A32-4F3C-BB1A-3A37B7C67537}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5310C695-968B-4FAB-B71A-EDE4E5CB0A61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5310C695-968B-4FAB-B71A-EDE4E5CB0A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5310C695-968B-4FAB-B71A-EDE4E5CB0A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5310C695-968B-4FAB-B71A-EDE4E5CB0A61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B00EB7A5-7517-439F-8EE3-32ED6522685B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B00EB7A5-7517-439F-8EE3-32ED6522685B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B00EB7A5-7517-439F-8EE3-32ED6522685B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B00EB7A5-7517-439F-8EE3-32ED6522685B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66EA0B9B-59AF-441F-A185-65DC38897516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66EA0B9B-59AF-441F-A185-65DC38897516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66EA0B9B-59AF-441F-A185-65DC38897516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66EA0B9B-59AF-441F-A185-65DC38897516}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -136,6 +168,11 @@ Global
 		{9A11CA1E-686A-4580-BF51-A4E4D3AF24D3} = {45A07FAC-2BA3-4326-8041-AE7D795E8208}
 		{D095DD04-B0E3-465B-959F-0F09D27BCF29} = {45A07FAC-2BA3-4326-8041-AE7D795E8208}
 		{3239E7D8-E675-4CA1-99AE-CE0EB3B7D835} = {45A07FAC-2BA3-4326-8041-AE7D795E8208}
+		{AB7823C2-F6ED-4EB8-92C5-7B9C195A8CAE} = {88ABC093-67D4-48E7-9841-512CC1D96CC6}
+		{39E9F730-5A32-4F3C-BB1A-3A37B7C67537} = {88ABC093-67D4-48E7-9841-512CC1D96CC6}
+		{5310C695-968B-4FAB-B71A-EDE4E5CB0A61} = {88ABC093-67D4-48E7-9841-512CC1D96CC6}
+		{B00EB7A5-7517-439F-8EE3-32ED6522685B} = {88ABC093-67D4-48E7-9841-512CC1D96CC6}
+		{66EA0B9B-59AF-441F-A185-65DC38897516} = {88ABC093-67D4-48E7-9841-512CC1D96CC6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0EBC42C1-025E-49F7-A2A2-7C8CF8B348C0}
